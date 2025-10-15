@@ -1,9 +1,7 @@
-﻿
-
-using ResolvendoExercicioSolid.DescontoPorCliente;
+﻿using ResolvendoExercicioSolid.DescontoPorCliente;
 using ResolvendoExercicioSolid.Interfaces;
 
-namespace ResolvendoExercicioSolid
+namespace ResolvendoExercicioSolid.Calculadores
 {
     public class CalculaDescontoStatusFactory : ICalculaStatusContaFactory
     {
